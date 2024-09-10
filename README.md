@@ -4,4 +4,5 @@
 
 -resultado
 
--![image](https://github.com/user-attachments/assets/e58ba092-3da3-43ec-9ff3-750a1889f389)
+-![image](https://github.com/user-attachments/assets/ae7ea331-e7a9-4ff1-8b00-00bb4dc0fa95)
+
